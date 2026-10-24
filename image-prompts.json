@@ -1,0 +1,44 @@
+[
+  {
+    "asset": "hero",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium Australian residential solar website, full-width photographic hero, horizontal 16:9. Create a convincingly real documentary photograph on a clear ordinary spring morning in Newcastle NSW Australia. A single-storey modest 1970s pale brick home with dark solar panels neatly aligned on its low pitched roof, native garden, gum trees and a slightly worn concrete driveway. On the RIGHT third a practical female Australian solar electrician aged about 37, short dark wavy hair, sun-freckled face, wearing a navy cotton work shirt, tan work trousers and work boots, stands on the ground holding a small closed tablet, looking up at the roof with a quiet candid expression, not looking at camera. House occupies most of frame, generous contextual space to left. Natural 35mm architectural reportage, true perspective and believable residential proportions, subtle sensor grain, realistic skin and fabric wrinkles, neutral colours with rich blue sky. Broad daylight, no cinematic orange sunset, no fake blur. Not an aspirational mansion, not a fashion model. No logos, words, watermarks, flags, readable screens, ladders or people on the roof. One continuous photo, not a collage.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  },
+  {
+    "asset": "homeowners",
+    "prompt": "Use case: photorealistic-natural. Asset type: Australian solar website lifestyle portrait, vertical 4:5 composition. A candid environmental photo of two Australian homeowners, a woman about 44 with curly auburn shoulder length hair, freckles and an olive linen shirt, and her partner about 48 with dark hair going grey and a plain off-white T-shirt. They are sitting at the edge of their lived-in Newcastle weatherboard home veranda, a kelpie lying near their feet, garden and gum leaves beyond, holding mugs and chatting naturally to each other, neither facing camera. Weathered timber floor, flyscreen door, practical everyday furniture, subtle signs of real family life. Late morning open shade, neutral colour grading, realistic Australian suburban environment. Professional magazine reportage with 50mm lens, moderate depth of field, pores, flyaway hair, creased clothes, ordinary real people, not commercial stock posing. Honest spontaneous moment. No text, logos, watermarks, extra limbs or glossy skin. One continuous photograph.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  },
+  {
+    "asset": "consultation",
+    "prompt": "Use case: photorealistic-natural. Asset type: solar installer website, horizontal 3:2 documentary photograph. A natural consultation at the outdoor timber dining table of a Newcastle NSW suburban home. A male Australian solar electrician about 50 with close-cropped grey hair, light stubble and a navy short-sleeved cotton work shirt, explaining a simple unlabelled roof sketch on a paper sheet to a female Australian homeowner about 36 with East Asian features, dark ponytail, cream casual top. Both sit on adjacent sides of table, looking at the paper, hands resting naturally with believable fingers. Camera at a little distance at eye level, includes both people waist up and textured garden background. Small detached house, ordinary back veranda, gum trees, real Australian daylight. Professional 35mm environmental reportage, neutral whites, realistic skin texture, slight imperfections, unposed expressions. Neither looks at camera. No legible words, logos, watermark, fake holograms or overly staged smiles. One continuous photo.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  },
+  {
+    "asset": "roof",
+    "prompt": "Use case: photorealistic-natural. Asset type: Australian residential solar website project study, landscape 3:2. A high resolution near-overhead architectural drone photograph of a modest single-storey Australian house in Newcastle NSW with clean terracotta tile roof, one coherent array of dark black solar panels on the north-facing roof plane, gum tree canopy around the boundaries, real narrow suburban driveway and lawn. Geometrically correct rectangle panel grid with realistic mounting clearances, no arbitrary pipes across panels, realistic scale, include entire house with plenty of context. Bright natural midday light, slightly textured weathered tiles and leaf shadows, authentic not an architectural 3D render. Neighbourhood is lived in, no luxury mansion, pool or impossible roof. No people, text, logos or watermarks. One continuous documentary photograph.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  },
+  {
+    "asset": "battery",
+    "prompt": "Use case: photorealistic-natural. Asset type: solar battery website architectural product context, landscape 3:2. A clean and convincing documentary photo of an unbranded slim white home battery cabinet installed on an uncluttered pale grey external brick wall at the side of an Australian Newcastle home, companion compact inverter and neatly routed conduit professionally fitted nearby with realistic clearances, concrete path below, one green native shrub at edge, soft daylight with gentle actual shadows. Camera three-quarter architectural view, careful straight verticals, battery subject at left centre and plenty of wall and garden context, restrained realistic detail. High-end architectural magazine photography with natural colours, no CGI plastic sheen, not a futuristic product rendering. No person, no text, no logos, no glowing effects or watermarks. One continuous photo.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  },
+  {
+    "asset": "coast",
+    "prompt": "Use case: photorealistic-natural. Asset type: solar website location panorama, wide landscape 16:9. Convincingly real aerial documentary photograph over a Newcastle NSW coastal residential neighbourhood, modest older weatherboard and brick homes with a few rooftop solar arrays and varied real roofs in foreground, gum trees, a stretch of broad sandy surf beach and blue Pacific in distance. Early afternoon neutral clear light, natural haze on horizon, authentic Australian coastal town scale, no iconic Sydney bridge or opera house, not tropical resort, no glamour towers, no invented labels. High quality drone photography, all buildings physically plausible and roof detail irregular like a real established suburb. No people close up, no text, no map pins, no logos, no watermarks. One continuous photograph.",
+    "method": "Built-in image generation",
+    "use": "Website asset",
+    "disclosure": "AI-generated illustrative photography"
+  }
+]

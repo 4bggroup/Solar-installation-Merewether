@@ -1,0 +1,32 @@
+ROOFLINE / ELECTRIC COAST
+NEW DESIGN — NEW PHOTOGRAPHY
+
+ওয়েবসাইট খোলার নিয়ম:
+
+1. ZIP ফাইলটি পুরো ডাউনলোড করুন।
+2. Right-click > Extract All দিন।
+3. Extract হওয়া Electric-Coast ফোল্ডারে যান।
+4. index.html ফাইলটি Chrome / Edge / Firefox-এ খুলুন।
+
+ZIP-এর ভেতর থেকেই HTML খুলবেন না। সব file একসঙ্গে extract করুন।
+প্রয়োজনে C:\Electric-Coast-এর মতো ছোট path ব্যবহার করুন।
+
+এই design আগের cream/olive version থেকে আলাদা।
+নতুন layout, typography, cobalt/orange colour এবং 6টি নতুন ছবি আছে।
+মানুষের সব ছবিই নতুন। Australian environment রাখা হয়েছে।
+
+Form বর্তমানে preview mode-এ আছে। Enquiry summary copy/download করা যায়।
+তথ্য কোথাও পাঠানো হয় না এবং booking হয় না।
+Launch-এর আগে site-config.js-এ আসল business contact / enquiry service বসাতে হবে।
+বিস্তারিত README.md-এ আছে।
+
+original-images folder-এ 6টি PNG master আছে।
+Website optimized WebP ব্যবহার করে; PNG master editing-এর জন্য দেওয়া।
+
+সব ছবি AI-generated illustrative photography।
+এগুলো বাস্তব staff, customer বা completed installation-এর ছবি নয়।
+
+WINDOWS QUICK START
+Download completely > Right-click ZIP > Extract All > Electric-Coast > index.html
+Keep assets, coast.css, coast.js and site-config.js beside index.html.
+No installation or build command is required.
